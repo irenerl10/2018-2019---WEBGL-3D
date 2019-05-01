@@ -1,5 +1,5 @@
 # 2018-2019---WEBGL-3D
-Ejercicio 4: https://irenerl10.github.io/2018-2019---WEBGL-3D/Ejercicio_4.html
+Ejercicio 4: https://irenerl10.github.io/2018-2019---WEBGL-3D/ejercicio_4.html
 
 Ejercicio 5: https://irenerl10.github.io/2018-2019---WEBGL-3D/Ejercicio_5.html
 
