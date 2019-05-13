@@ -10,4 +10,5 @@ Ejercicio 6: https://irenerl10.github.io/2018-2019---WEBGL-3D/Ejercicio_6.html
 
 Ejercicio 7: https://irenerl10.github.io/2018-2019---WEBGL-3D/Ejercicio_7.html
 
-Práctica Final Pong:
+Práctica Final Pong: https://irenerl10.github.io/2018-2019---WEBGL-3D/pong.html
+
